@@ -1,7 +1,5 @@
 -------------------------------------------------
 -- Bookmark Widget for Awesome Window Manager
--- More details could be found here:
--- https://github.com/streetturtle/awesome-wm-widgets/tree/master/logout-menu-widget
 
 -- @author Pavel Makhov
 -- @copyright 2020 Pavel Makhov
